@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    
+    box-sizing: border-box;
+}
+.header{
+ width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+   
+    
+}
+.firstpic{
+    background-image: url(image/tesla\ image\ 1.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+   
+}
+.first{
+   display: flex;
+    justify-content: space-between;
+    padding: 18px;
+    padding-right: 60px;
+
+
+}
+
+.logo{
+filter: invert(1);
+width: 107px;
+ height: 13px;
+margin-left: 30px;
+}
+.bar a{
+    text-decoration: none;
+    color: black;
+    padding:10px;
+    filter: invert(1);
+}
+.logoss{
+    filter: invert(1);
+    position: relative;
+   
+}
+.loimage{
+    width: 23px;
+    height: 21px;
+}
+.text{
+  padding:40px 480px;
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+.text-1{
+    padding:16px 480px;
+    text-align: center;
+    color: white;
+    font-size: large;
+  }
+  .text-1 h1{
+    font-weight: 400px;
+    font-size: 55px;
+    height: 62px;
+}
+.text h1{
+    font-weight: 400px;
+    font-size: 55px;
+    height: 62px;
+}
+.underline{
+   background-color: white;
+    width: 100%;
+    height: 2px;
+}
+.button-1{
+    display: flex;
+ justify-content: center;
+    margin-top: 430px;
+    border-radius:10px ;
+}
+.button{
+    display: flex;
+ justify-content: center;
+    margin-top: 430px;
+    border-radius:10px ;
+}
+.order-now{
+    height: 40px;
+    width: 264px;
+    border-radius: 5px;
+    margin-right: 23px;
+    background-color:rgb(62, 106, 225);
+    color: white;
+    border-color: rgb(62, 106, 225);
+}
+.Demo{
+    height: 40px;
+    width: 264px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+    border-color: aliceblue;
+}
+.secpic{
+    background-image: url(image/tesla\ image\ 2.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.thirpic{
+    background-image: url(image/tesla\ image\ 3.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.underline-2{
+    background-color: white;
+    width: 78%;
+    height: 2px;
+    margin-left: 55px;
+ }
+ .underline-3{
+    background-color: white;
+    width: 70%;
+    height: 2px;
+    margin-left: 75px;
+ }
+.fourpic{
+    background-image: url(image/tesla\ image\ 4.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+.fivpic{
+background-image: url(image/tesla\ image\ 5.png);
+width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+.cut{
+    width: 450px;
+height: 126.58px;
+margin-top: 70px;
+margin-left: 400px;
+}
+.cutcut{
+    padding: 10px 100px;
+    height: 50vh;
+}
+.sexpic{
+    background-image: url(image/tesla\ image\ 6_avif.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+.underline-1{
+    background-color: white;
+    width: 80%;
+    height: 2px;
+    margin-left: 53px;
+ }
+.sevepic{
+    background-image: url(image/tesla\ image\ 7.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+.eightpic{
+    background-image: url(image/tesla\ image\ 8.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+.button-4{
+    display: flex;
+    justify-content: center;
+       margin-top: 535px;
+       border-radius:10px ;
+}
+.ninepic{
+    background-image: url(image/tesla\ image\ 9.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+.footer{
+    text-align: center;
+    
+    background-color: black;
+    width: 100%;
+    height: 70vh;
+    padding: 50px 450px;
+    
+}
+.footer-text {
+  height: 100px;
+    width : 600px;
+    font-size: small;
+    margin-right: 100px;
+    
+}
+.footer-text p{
+    color: rgb(208, 209, 210);
+    height: 100px;
+
+}.button-2{  display: flex;
+    justify-content: center;
+       margin-top: 460px;
+       border-radius:10px ;
+
+}
+.button-3{
+    display: flex;
+    justify-content: center;
+       margin-top: 300px;
+       border-radius:10px ;
+}
+.order-now-3{
+    height: 40px;
+    width: 264px;
+    
+    margin-right: 23px;
+    background-color: rgb(27, 27, 35);
+    color:  rgb(162, 163, 165);
+    border-top-color: rgb(142, 142, 142);
+  
+   
+}
+.Demo-3{
+    height: 40px;
+    width: 264px;
+    background-color:rgb(17, 17, 17);
+    color:  rgb(162, 163, 165);
+    border-color: rgb(45, 57, 68);
+}
+.last  {
+    display: flex;
+    color: rgb(208, 209, 210);
+margin-top: 353px;
+   text-wrap: nowrap;
+}
+.underline-4{
+   background-color: white;
+    width: 74%;
+    height: 2px;
+    margin-left: 65px;
+
+}
+.last h1{
+    font-size: small;
+    padding-left: 13px;
+
+}
+.under{
+    height: 2px;
+    width: 100%;
+ border-bottom: solid 2px white ;
+ color: aliceblue;
+}
